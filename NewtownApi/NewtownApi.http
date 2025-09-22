@@ -1,0 +1,6 @@
+@NewtownApi_HostAddress = http://localhost:5114
+
+GET {{NewtownApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
